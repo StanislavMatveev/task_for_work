@@ -1,0 +1,82 @@
+{
+    "3478": {
+        "name": "Альбус",
+        "surname": "Дамблдор",
+        "desperation": "",
+        "organization": "Хогвартс",
+        "work_number": "111-11-11",
+        "personal_number": ""
+    },
+    "4811": {
+        "name": "Аноним",
+        "surname": "",
+        "desperation": "",
+        "organization": "Х",
+        "work_number": "999-99-99",
+        "personal_number": "999-99-99"
+    },
+    "4479": {
+        "name": "Арагорн",
+        "surname": "",
+        "desperation": "",
+        "organization": "Средиземье",
+        "work_number": "345-45-32",
+        "personal_number": ""
+    },
+    "8104": {
+        "name": "Гарри",
+        "surname": "Поттер",
+        "desperation": "",
+        "organization": "Хогвартс",
+        "work_number": "556-06-37",
+        "personal_number": ""
+    },
+    "6989": {
+        "name": "Гермиона",
+        "surname": "Грейнджер",
+        "desperation": "",
+        "organization": "Хогвартс",
+        "work_number": "234-56-32",
+        "personal_number": "567-43-65"
+    },
+    "7326": {
+        "name": "Илон",
+        "surname": "Маск",
+        "desperation": "",
+        "organization": "Тесла",
+        "work_number": "000",
+        "personal_number": ""
+    },
+    "6540": {
+        "name": "Рон",
+        "surname": "Уизли",
+        "desperation": "",
+        "organization": "Хогвартс",
+        "work_number": "",
+        "personal_number": "456-45-78"
+    },
+    "3379": {
+        "name": "Томас",
+        "surname": "Рипли",
+        "desperation": "Феликс",
+        "organization": "",
+        "work_number": "454-33-65",
+        "personal_number": "221-45-45"
+    },
+    "6565": {
+        "name": "Тони",
+        "surname": "Старк",
+        "desperation": "",
+        "organization": "Мстители inc.",
+        "work_number": "010-10-10",
+        "personal_number": "344-43-66"
+    },
+    "4659": {
+        "name": "Фродо",
+        "surname": "Бэггинс",
+        "desperation": "",
+        "organization": "Средиземье",
+        "work_number": "",
+        "personal_number": "100-00-00"
+    }
+}
